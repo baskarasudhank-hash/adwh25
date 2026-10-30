@@ -1,0 +1,19 @@
+# ===== SECRET FILE - NEVER UPLOAD THIS =====
+.env
+
+# ===== Python temporary files =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Project output files =====
+screenshot_*.png
+
+# ===== Operating system junk =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Editor folders =====
+.vscode/
+.idea/
